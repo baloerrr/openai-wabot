@@ -1,0 +1,10 @@
+2022/12/26-22:58:56.339 12fc Reusing MANIFEST C:\Users\akbar\Documents\node js\wa-web-chatgpt\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/26-22:58:56.340 12fc Recovering log #31
+2022/12/26-22:58:56.357 12fc Reusing old log C:\Users\akbar\Documents\node js\wa-web-chatgpt\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000031.log 
+2022/12/26-22:58:57.578 3100 Compacting 1@1 + 1@2 files
+2022/12/26-22:58:57.714 3100 Generated table #34@1: 40951 keys, 2249438 bytes
+2022/12/26-22:58:57.739 3100 Generated table #35@1: 7773 keys, 361382 bytes
+2022/12/26-22:58:57.739 3100 Compacted 1@1 + 1@2 files => 2610820 bytes
+2022/12/26-22:58:57.740 3100 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/12/26-22:58:57.741 3100 Delete type=2 #29
+2022/12/26-22:58:57.741 3100 Delete type=2 #32
