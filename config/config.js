@@ -1,3 +1,3 @@
 module.exports = {
-    API_KEY_OPEN_AI: 'XXX'
+    API_KEY_OPEN_AI: 'your api key*' 
 }
