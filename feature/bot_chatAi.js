@@ -56,7 +56,7 @@ const chatGPT = async(question) => {
         return result;
     }).
     catch(err => {
-        res.message = `Error : ${err.message}`;
+        result.message = `Error : ${err.message}`;
         return result
     }) ;
 }
