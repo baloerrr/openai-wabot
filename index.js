@@ -1,7 +1,7 @@
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const { chatAI } = require('./feature/bot_chatAi.js');
-const { stickerBot } = require('./feature/bot_sticker.js');
+const { stickerBot } = require('./feature/bot_sticker.js'); //
 
 const whatsapp = new Client({
     authStrategy: new LocalAuth()
